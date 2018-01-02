@@ -1,0 +1,16 @@
+.techfont {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.27em;
+}
+
+.bigbrand{
+    font-size: 1.5em;
+}
+
+.centerstage {
+    margin: auto;
+}
+
+.loader {
+    color:#303030;
+}
